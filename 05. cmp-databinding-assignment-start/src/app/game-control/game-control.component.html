@@ -1,0 +1,4 @@
+<h1>Game Control</h1>
+<hr>
+<button class="btn btn-success" (click)="onStart()" [disabled]="gameRunning">Start</button>
+<button class="btn btn-danger" (click)="onStop()" [disabled]="!gameRunning">Stop</button>
