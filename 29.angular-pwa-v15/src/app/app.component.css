@@ -1,0 +1,8 @@
+h1 {
+display: flex;
+  margin: auto;
+  justify-self: center;
+  align-self: center;
+  font-family: 'Oswald', sans-serif;
+
+}

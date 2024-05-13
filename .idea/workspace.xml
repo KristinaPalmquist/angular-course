@@ -4,7 +4,297 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37eb0186-5e69-4e30-b3fc-dc9093fe4163" name="Changes" comment="" />
+    <list default="true" id="37eb0186-5e69-4e30-b3fc-dc9093fe4163" name="Changes" comment="Section 31 - CLI">
+      <change afterPath="$PROJECT_DIR$/.idea/angular-course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24. 01-starting-project/.idea/24. 01-starting-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/24. 03-starting-with-routing/.idea/24. 03-starting-with-routing.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26. ngrx-00-starting-project/src/app/auth/store/auth.actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26. ngrx-00-starting-project/src/app/auth/store/auth.effects.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26. ngrx-00-starting-project/src/app/auth/store/auth.reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26. ngrx-00-starting-project/src/app/recipes/store/recipe.actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26. ngrx-00-starting-project/src/app/recipes/store/recipe.effects.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26. ngrx-00-starting-project/src/app/recipes/store/recipe.reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26. ngrx-00-starting-project/src/app/store/app.reducer.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28. testing new project/28.Animations/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/app/post.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/app/post/post.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/app/post/post.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/app/post/post.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/app/post/post.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29. ng-pwa-01-start/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/ngsw-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/app/app.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/app/post.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/app/post/post.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/app/post/post.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/app/post/post.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/app/post/post.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/assets/icons/icon-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/assets/icons/icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/assets/icons/icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/assets/icons/icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/assets/icons/icon-384x384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/assets/icons/icon-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/assets/icons/icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/assets/icons/icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/manifest.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29._new_ng-pwa-01-start/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/ngsw-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/app/post.model.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/app/post/post.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/app/post/post.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/app/post/post.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/app/post/post.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/assets/icons/icon-128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/assets/icons/icon-144x144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/assets/icons/icon-152x152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/assets/icons/icon-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/assets/icons/icon-384x384.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/assets/icons/icon-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/assets/icons/icon-72x72.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/assets/icons/icon-96x96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/manifest.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.angular-pwa-v15/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/e2e/protractor.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/e2e/src/app.e2e-spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/e2e/src/app.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/e2e/tsconfig.e2e.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/how-to-use.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/shared/data.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/shared/reverse.pipe.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/shared/reverse.pipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/user/user.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/user/user.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/user/user.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/user/user.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/app/user/user.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/browserslist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/environments/environment.prod.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/environments/environment.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/karma.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/polyfills.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/src/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30. testing-final/tslint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/shared/data.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/shared/reverse.pipe.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/shared/reverse.pipe.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/user/user.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/user/user.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/user/user.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/user/user.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/app/user/user.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30._testing_new/tsconfig.spec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/.vscode/extensions.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/angular.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/app/app.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/app/app.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/app/app.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/app/app.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/app/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/app/main-nav/main-nav.component.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/app/main-nav/main-nav.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/app/main-nav/main-nav.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/app/main-nav/main-nav.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/assets/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/tsconfig.app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32._angular-config/tsconfig.spec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-02-13_16_10_[Changes]/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-02-13_16_10_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024-02-13_16_10__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26. ngrx-00-starting-project/src/app/shopping-list/store/shopping-list.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/26. ngrx-00-starting-project/src/app/shopping-list/store/shopping-list.actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/26. ngrx-00-starting-project/src/app/shopping-list/store/shopping-list.reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/26. ngrx-00-starting-project/src/app/shopping-list/store/shopping-list.reducer.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,32 +313,40 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2cInbAQp205Og1pGufgu27UiVCB" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/krist/Documents/GitHub/angular-course&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\krist\\Documents\\GitHub\\angular-course\\20.-auth-01-auth-component\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/krist/Documents/GitHub/angular-course/30._testing_new",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\krist\\Documents\\GitHub\\angular-course\\28. testing new project\\28.Animations\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\krist\Documents\GitHub\angular-course\29.angular-pwa-v15" />
+      <recent name="C:\Users\krist\Documents\GitHub\angular-course\29._new_ng-pwa-01-start" />
+      <recent name="C:\Users\krist\Documents\GitHub\angular-course\29._new_ng-pwa-01-start\src" />
+      <recent name="C:\Users\krist\Documents\GitHub\angular-course\28. testing new project\28.Animations" />
       <recent name="C:\Users\krist\Documents\GitHub\angular-course\20.-auth-01-auth-component" />
-      <recent name="C:\Users\krist\Documents\GitHub\angular-course\auth-01-auth-component\src" />
-      <recent name="C:\Users\krist\Documents\GitHub\angular-course\auth-01-auth-component" />
-      <recent name="C:\Users\krist\Documents\GitHub\angular-course" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\krist\Documents\GitHub\angular-course\20.-auth-01-auth-component" />
@@ -75,6 +373,11 @@
       <workItem from="1707833609873" duration="4170000" />
       <workItem from="1707891744721" duration="238000" />
       <workItem from="1707892770745" duration="1702000" />
+      <workItem from="1712738817360" duration="15053000" />
+      <workItem from="1712809237768" duration="39332000" />
+      <workItem from="1713240368392" duration="11518000" />
+      <workItem from="1715588837182" duration="609000" />
+      <workItem from="1715589476462" duration="6145000" />
     </task>
     <servers />
   </component>
@@ -91,5 +394,20 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Section 31 - CLI" />
+    <option name="LAST_COMMIT_MESSAGE" value="Section 31 - CLI" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/26. ngrx-00-starting-project/src/app/recipes/recipe-list/recipe-list.component.ts</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
