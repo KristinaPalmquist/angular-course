@@ -4,82 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37eb0186-5e69-4e30-b3fc-dc9093fe4163" name="Changes" comment="Section 31 - CLI">
-      <change afterPath="$PROJECT_DIR$/31._angular-config/.nx/cache/file-map.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/.nx/cache/lockfile.hash" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/.nx/cache/parsed-lock-file.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/.nx/cache/project-graph.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/src/app/app.config.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/src/app/app.routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/projects/backend/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/src/app/alert.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31._angular-config/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34._typescript/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34._typescript/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34._typescript/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34._typescript/src/basics.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34._typescript/src/no-typescript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34._typescript/src/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34._typescript/src/with-typescript.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/.vscode/extensions.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/.vscode/launch.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/.vscode/tasks.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/backend/src/app/app.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/backend/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/backend/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/backend/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/backend/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/backend/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/backend/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/backend/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/backend/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/backend/src/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/backend/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/backend/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/my-button/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/my-button/ng-package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/my-button/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/my-button/src/lib/my-button.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/my-button/src/lib/my-button.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/my-button/src/lib/my-button.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/my-button/src/lib/my-button.service.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/my-button/src/lib/my-button.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/my-button/src/public-api.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/my-button/tsconfig.lib.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/my-button/tsconfig.lib.prod.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/projects/my-button/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/angular-shop/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="37eb0186-5e69-4e30-b3fc-dc9093fe4163" name="Changes" comment="Finished the course">
+      <change afterPath="$PROJECT_DIR$/UdemyCertificate-AngularTheCompleteGuide(2024Edition).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UdemyCertificate-AngularTheCompleteGuide(2024Edition).pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31._angular-config/.nx/cache/nx_files.nxt" beforeDir="false" afterPath="$PROJECT_DIR$/31._angular-config/.nx/cache/nx_files.nxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31._angular-config/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/31._angular-config/angular.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31._angular-config/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/31._angular-config/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31._angular-config/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/31._angular-config/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31._angular-config/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/31._angular-config/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31._angular-config/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/31._angular-config/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31._angular-config/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/31._angular-config/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31._angular-config/src/app/main-nav/main-nav.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/31._angular-config/src/app/main-nav/main-nav.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31._angular-config/src/app/main-nav/main-nav.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/31._angular-config/src/app/main-nav/main-nav.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31._angular-config/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/31._angular-config/tsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,8 +100,17 @@
       <workItem from="1713240368392" duration="11518000" />
       <workItem from="1715588837182" duration="609000" />
       <workItem from="1715589476462" duration="6145000" />
-      <workItem from="1715606998145" duration="19165000" />
+      <workItem from="1715606998145" duration="20161000" />
     </task>
+    <task id="LOCAL-00001" summary="Finished the course">
+      <option name="closed" value="true" />
+      <created>1715765314048</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715765314048</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +136,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Section 31 - CLI" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 31 - CLI" />
+    <MESSAGE value="Finished the course" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished the course" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
