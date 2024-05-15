@@ -2,5 +2,8 @@
   "devDependencies": {
     "@ngrx/store-devtools": "^17.1.1",
     "karma-edge-launcher": "^0.4.2"
+  },
+  "dependencies": {
+    "typescript": "^5.4.5"
   }
 }
